@@ -7,9 +7,9 @@
 ## General info
 Front-end application - Chat
 
-<code>node index.js - running server</code><br>
+<code>node index.js - running server (production version)</code><br>
 <code>npm start - running developer version</code><br>
-<a href="http://localhost:8080">http://localhost:8080</a> - Developer application view<br>
+<a href="http://localhost:8080">http://localhost:8080</a> - Developer version<br>
 <a href="http://localhost:3000">http://localhost:3000</a> - Production version
 
 
