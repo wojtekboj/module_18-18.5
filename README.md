@@ -16,7 +16,7 @@ Front-end application - Chat
 ## Technologies
 Project is created with:
 * HTML5
-* CSS5
+* CSS3
 * Javascript
 
 ## Tools
